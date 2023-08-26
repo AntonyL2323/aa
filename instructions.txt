@@ -1,0 +1,8 @@
+DATA WILL BE WIPED SO MAKE A BACKUP
+
+1. Download this zip(you already have) and you'll get 2 folders 'unlock' and drivers
+https://drive.google.com/open?id=1YpezCedaRWGDS9WW7UaXXyyBod0Bk5qp
+2. Install the drivers and go the 'unlock' folder
+3. Reboot your phone to fastboot mode by pressing volume up + power on at the same time.
+4. Connect it to pc and open unlock.bat in 'unlock' folder
+5. Done
